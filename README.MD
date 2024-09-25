@@ -5,10 +5,11 @@
 [Planilha excel referênte a atividade](Projeto_Integrador_2_Murillo.xlsx)
 
 # IMAGENS
-2. GRÁFICO DE PIZZA\
+2 ------------------------------
+2.1. GRÁFICO DE PIZZA\
 [Imagem do Gráfico](gráfico.png)
 
-TABELA\
+2.2. TABELA\
 [Imagem da Tabela](Tabela1.png)
 
 # SLIDE

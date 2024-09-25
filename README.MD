@@ -9,7 +9,7 @@
 <img src="gráfico.png" alt="Gráfico de Pizza" width="400" height="300">
 
 3. TABELA EXCEL\
-<img src="Tabela1.png" alt="Tabela Excel" width="700" height="300">
+<img src="Tabela1.png" alt="Tabela Excel" width="900" height="250">
 
 # SLIDE
 4. SLIDE COM APLICAÇÃO DAS IMAGENS\

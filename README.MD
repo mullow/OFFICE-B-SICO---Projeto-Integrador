@@ -1,13 +1,13 @@
 # EXCEL BÁSICO - PROJETO INTEGRADOR II
 
 # PLANILHA EXCEL
-1. Panilha auxiliar de estudos em Física\
+1. PLANILHA AUXILIAR DOS ESTUDOS EM FÍSICA\
 [Planilha excel referênte a atividade](Projeto_Integrador_2_Murillo.xlsx)
 
 # IMAGENS
-2. Imagens Referêntes a Planilha\
-<img src="gráfico.png" alt="Gráfico">\
-<img src="Tabela1.png" alt="Tabela">
+2.GRÁFICO DE PIZZA
+[Imagem do Gráfico]()
+
 
 # SLIDE
 3. Slide Referênte a Planilha\

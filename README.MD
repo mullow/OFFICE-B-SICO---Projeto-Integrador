@@ -6,7 +6,7 @@
 
 # IMAGENS
 2. GRÁFICO DE PIZZA\
-<img src="gráfico.png" alt="Gráfico de Pizza" width="100" height="100">
+<img src="gráfico.png" alt="Gráfico de Pizza" width="300" height="300">
 [Imagem do Gráfico](gráfico.png)
 
 3. TABELA\

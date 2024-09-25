@@ -6,11 +6,10 @@
 
 # IMAGENS
 2. GRÁFICO DE PIZZA\
-<img src="gráfico.png" alt="Gráfico de Pizza" width="400" height="300">\
-[Imagem do Gráfico](gráfico.png)
+<img src="gráfico.png" alt="Gráfico de Pizza" width="400" height="300">
 
-3. TABELA\
-[Imagem da Tabela](Tabela1.png)
+3. TABELA EXCEL\
+<img src="Tabela1.png" alt="Tabela Excel" width="400" height="300">
 
 # SLIDE
 4. SLIDE COM APLICAÇÃO DAS IMAGENS\

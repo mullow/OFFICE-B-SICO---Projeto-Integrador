@@ -8,13 +8,13 @@
 2. GRÁFICO DE PIZZA\
 [Imagem do Gráfico](gráfico.png)
 
-2. TABELA\
+3. TABELA\
 [Imagem da Tabela](Tabela1.png)
 
 # SLIDE
-3. SLIDE COM APLICAÇÃO DAS IMAGENS\
+4. SLIDE COM APLICAÇÃO DAS IMAGENS\
 [Slide referênte a atividade](PPTX-EXCEL.pptx)
 
 # DOCUMENTO WORD
-4. DOCUMENTO WORD COM APLICAÇÃO DAS IMAGENS\
+5. DOCUMENTO WORD COM APLICAÇÃO DAS IMAGENS\
 [Documento word referênte a atividade](Doc-Word.docx)

@@ -5,14 +5,16 @@
 [Planilha excel referênte a atividade](Projeto_Integrador_2_Murillo.xlsx)
 
 # IMAGENS
-2.GRÁFICO DE PIZZA
-[Imagem do Gráfico]()
+2. GRÁFICO DE PIZZA\
+[Imagem do Gráfico](gráfico.png)
 
+TABELA\
+[Imagem da Tabela](Tabela1.png)
 
 # SLIDE
-3. Slide Referênte a Planilha\
+3. SLIDE COM APLICAÇÃO DAS IMAGENS\
 [Slide referênte a atividade](PPTX-EXCEL.pptx)
 
 # DOCUMENTO WORD
-4. Documento word referênte a Planilha\
+4. DOCUMENTO WORD COM APLICAÇÃO DAS IMAGENS\
 [Documento word referênte a atividade](Doc-Word.docx)
